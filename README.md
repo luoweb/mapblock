@@ -22,5 +22,5 @@
 
 |                   用户出示防疫二维码                    |                     机构验证防疫情二维码                     |
 | :-----------------------------------------------------: | :----------------------------------------------------------: |
-| [![视频预览](https://github.com/qq783175223/img-analyzer/blob/master/images/img-analyzer.png)] | <video src="http://q8mix8qp7.bkt.clouddn.com/verification.mp4"></video> |
+| [![视频预览](https://github.com/qq783175223/img-analyzer/blob/master/images/img-analyzer.png)](https://v.youku.com/v_show/id_XNDEyMjUxNzY5Mg==.html?spm=a2hzp.8244740.0.0)| <video src="http://q8mix8qp7.bkt.clouddn.com/verification.mp4"></video> |
 
